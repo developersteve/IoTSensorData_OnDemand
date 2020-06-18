@@ -4,7 +4,7 @@
 :Revision: version#2
 :License: Public Domain
 
-= Project: {IoTSensorData_OnDemand}
+= Project: IoT Sensor Data On Demand
 
 This project allows you to request sensor data on demand from your IoT device.
 
